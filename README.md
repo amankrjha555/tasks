@@ -7,6 +7,7 @@
 - Self analysis and analysis of team members performance based on different aspects.
 - Finding average of everyone <strong><em> ```in points``` </em></strong>.
 - Applying conditional formatting to highlight row of persons whose average is less than 2.5 with red color.
+- script to determine sum and average of each intern .
 </details>
 
 <details>
@@ -31,7 +32,9 @@
 - Checking if the VLOOKUP() Functon is applicable to all row.
 ### Test Case 5
 - Checking if the AVERAGE() function works as expected.
-### Test Case 6
+- ### Test Cases 6 
+- If we forget to print any value in any of cell then it will give N/A in average column which should be beneficial for us to avoid human errors like that .
+### Test Case 7
 - Checking for conditional formatting.
 -->
 
@@ -53,6 +56,8 @@
 - Succesfully worked as expected.
 ### Test Case 6
 - Succesfully worked as expected.
+### Test case 7
+- successfully worked as expected.
 
 </details>
 
