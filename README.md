@@ -13,7 +13,7 @@
 <details>
 <summary><h2 align="center">Ｔｅｓｔ ｃａｓｅｓ</h2></summary>
 <br>
-src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/publish.png" alt="sample image"
+src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/publish.png" alt="sample image"|
 <img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/linkon.png" height=100>
 |SrNo.| Different&nbsp;Test&nbsp;Cases | Desired&nbsp;Output | Actual&nbsp;Output  | Test&nbsp;Status(Pass/Fail) |
 |-----|------|----------------|----------------|-------------|
