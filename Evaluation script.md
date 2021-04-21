@@ -17,17 +17,20 @@ I have used `wget` command to download csv from google spreadsheet link  with th
 <details>
 <summary><h1 align="center">Ｔｅｓｔ ｃａｓｅｓ</h1></summary>
 <h3>For the given evaluation sheet script  test cases generated are defined below:<h4>
+
+
+| Test Case ID  | Test Scenario  | Test Steps  | Test Data  | Expected Results  |  Actual Results |  Pass/Fail |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+|`TC01`|Check Google Spreadsheet link| <ol> <li>Go to Google Spreadsheet</li><li>Select File -> Publish to the web</li><li>Select the entire document or a particular page as per your need and select csv option and click publish<br></li></ol>|Google Spreadsheet|Link from which we can download Spreadsheet in csv format|Link which downloaded file in csv| PASS  |
+|`TC02`|Check <strong>wget</strong>|Enter the generated link from `TC01`|Link of published Spreadsheet|Downloading file from link in csv|Downloaded file as expected|PASS|
+|`TC03`|Manipulating Spreadsheet using <strong>awk</strong>|<ol><li>Fetching particular column of csv:</li><ul><li>Intern Name</li><li>Average</li></ul><li>Calculating Sum based on Average column values</li></ol>|Downloaded CSV file|Getting all values of Intern name, Average column and Sum values |Got all values of Intern name, Average column and Sum values|PASS|
+|`TC04`|Redirecting output of `TC03` in new files|use `>` (followed by file_name) after `awk` command |awk command of `TC03`|Creation of new files|Created new files|PASS|
+</details>
+
+<details>
   
   
-  <h5> TEST CASE 1:</h5>
   
-```
-  check google spreadsheet link. steps involved are :
-  * Go to google spreadsheet
-  * Select File -> Publish to the web
-  * Select the entire document or a particular page as per your need and select csv option and click publish.
-```
-   
    
 
   
