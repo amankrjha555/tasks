@@ -19,8 +19,8 @@ I have used `wget` command to download csv from google spreadsheet link  with th
 <h3>For the given evaluation sheet script  test cases generated are defined below:<h4>
 
 
-| TID | Test Case | Expected Result  |  Actual Result|  Status |
-| :------------: | :------------: | :------------: | :------------: | :------------: |
+| TID | Test Case | Expected Result  |  Actual Result| Image for Reference| Status |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------:|
 |`T1`|when a new record is added ro the csv file |It will automatically also include the new record output|we can accomplished this by using awk condition `awk -F , '$1 ~ /^[0-9]+$` | `PASS `|
 |`T2`|when the user don't know the exact column number but know the column name specified|Script automatically calculate the column number using the column name|We don't specified column number for Name and Average it is calculated automatically|`PASS`|
 |`T3`|If in csv average value is not present/not applicable |We want desired output|Without average we can't calculate the sum so doen't get the desired output|`Fail`|
