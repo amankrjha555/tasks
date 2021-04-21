@@ -27,7 +27,10 @@ I have used `wget` command to download csv from google spreadsheet link  with th
 |`T4`|Getting name, sum, average for each record individually|We get the desired output|Script printed the name, sum ,average according to the format|<img src="https://github.com/additivats01/tasks/blob/master/Images/output.png" height=400>|`PASS`|
 </details>
 
-<details>
+ <details>
+<summary><h1 align="center">𝙲𝚘𝚗𝚌𝚕𝚞𝚜𝚒𝚘𝚗</h1></summary>
+I hereby concludes that the script at discussion is fully operational and working as per requirement.
+</details
   
   
   
