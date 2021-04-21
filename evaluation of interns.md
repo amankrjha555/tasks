@@ -10,8 +10,8 @@
 - Create a script in (python & shell )
 - The Google sheet will be downloaded in the form of CSV. The output should appear as : 
      -for example person name= abc
-     -sum=aa
-     -average=abc
+         sum=aa
+         average=abc
 </details>
 
 <details>
