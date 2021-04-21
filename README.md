@@ -14,7 +14,7 @@
 <summary><h2 align="center">Ｔｅｓｔ ｃａｓｅｓ</h2></summary>
 <br>
 
-<img src="https://github.com/additivats01/tasks/blob/master/gitsnap.PNG" height=100>|
+<img src="https://github.com/additivats01/tasks/blob/master/gitsnap.PNG" height=600>|
 |SrNo.| Different&nbsp;Test&nbsp;Cases | Desired&nbsp;Output | Actual&nbsp;Output  | Test&nbsp;Status(Pass/Fail) |
 |-----|------|----------------|----------------|-------------|
 |`1`|Testing VLOOKUP() function on a random cell with Value Excellent|Print value  5|Printed value 5|Pass|
