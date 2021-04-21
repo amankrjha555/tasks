@@ -21,7 +21,7 @@ I have used `wget` command to download csv from google spreadsheet link  with th
 
 | TID | Test Case | Expected Result  |  Actual Result|  Status |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|`T1`when a new record is added ro the csv file |It will automatically also include the new record output|we can accomplished this by using `awk condition awk -F , '$1 ~ /^[0-9]+$` | PASS  |
+|`T1`|when a new record is added ro the csv file |It will automatically also include the new record output|we can accomplished this by using awk condition `awk -F , '$1 ~ /^[0-9]+$` | PASS  |
 |`T2`|Check <strong>wget</strong>|Enter the generated link from `T1`|Link of published Spreadsheet|Downloading file from link in csv|Downloaded file as expected|PASS|
 |`T3`|
 |`T3`|Manipulating Spreadsheet using <strong>awk</strong>|<ol><li>Fetching particular column of csv:</li><ul><li>Intern Name</li><li>Average</li></ul><li>Calculating Sum based on Average column values</li></ol>|Downloaded CSV file|Getting all values of Intern name, Average column and Sum values |Got all values of Intern name, Average column and Sum values|PASS|
