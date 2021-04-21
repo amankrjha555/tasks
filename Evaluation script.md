@@ -21,11 +21,10 @@ I have used `wget` command to download csv from google spreadsheet link  with th
 
 | TID | Test Case | Expected Result  |  Actual Result|  Status |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|`T1`|when a new record is added ro the csv file |It will automatically also include the new record output|we can accomplished this by using awk condition `awk -F , '$1 ~ /^[0-9]+$` | PASS  |
-|`T2`|Check <strong>wget</strong>|Enter the generated link from `T1`|Link of published Spreadsheet|Downloading file from link in csv|Downloaded file as expected|PASS|
-|`T3`|
-|`T3`|Manipulating Spreadsheet using <strong>awk</strong>|<ol><li>Fetching particular column of csv:</li><ul><li>Intern Name</li><li>Average</li></ul><li>Calculating Sum based on Average column values</li></ol>|Downloaded CSV file|Getting all values of Intern name, Average column and Sum values |Got all values of Intern name, Average column and Sum values|PASS|
-|`T4`|Redirecting output of `T3` in new files|use `>` (followed by file_name) after `awk` command |awk command of `T3`|Creation of new files|Created new files|PASS|
+|`T1`|when a new record is added ro the csv file |It will automatically also include the new record output|we can accomplished this by using awk condition `awk -F , '$1 ~ /^[0-9]+$` | `PASS `|
+|`T2`|when the user don't know the exact column number but know the column name specified|Script automatically calculate the column number using the column name|We don't specified column number for Name and Average it is calculated automatically|`PASS`|
+|`T3`|If in csv average value is not present/not applicable |We want desired output|Without average we can't calculate the sum so doen't get the desired output|`Fail`|
+|`T4`|Getting name, sum, average for each record individually|We get the desired output|Script printed the name, sum ,average according to the format|`PASS`|
 </details>
 
 <details>
