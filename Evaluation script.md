@@ -12,7 +12,9 @@ objective of script :
 
 I have used `wget` command to download csv from google spreadsheet link  with the argument `-O` for output file  and used `awk` command  for pattern scanning and processing .It  manipulate data from downloaded csv and then stored the new output using redirection operator `>` in `awk` command and also  an argument `-F` "," for using , as delimeter by default .
 
-<h4>steps followed are</h4>
+<h4>Steps followed are:</h4>
+
+
 ```Check Google Spreadsheet link```
  * Go to Google Spreadsheet
  * Select File -> Publish to the web
