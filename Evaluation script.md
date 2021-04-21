@@ -24,7 +24,9 @@ I have used `wget` command to download csv from google spreadsheet link  with th
   check google spreadsheet link. steps involved are :
   * Go to google spreadsheet
   * Select File -> Publish to the web
-  * Select the entire document or a particular page as per your need and select csv option and click publish
-  *Google Spreadsheet|Link from which we can download Spreadsheet in csv format|Link which downloaded file in csv
+  * Select the entire document or a particular page as per your need and select csv option and click     publish
+
+  
+  
   
   
