@@ -32,8 +32,8 @@ Name : Dharamveer
  Sum : 40 
  Avg : 5
 Name : Rishabh 
- Sum : 24 
- Avg : 3
+ Sum : 0 
+ Avg : #N/A
 Name : Pravesh Singh 
  Sum : 24 
  Avg : 3
