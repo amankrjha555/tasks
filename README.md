@@ -1,7 +1,7 @@
 <h1 align="center">🇪​​​​​🇻​​​​​🇦​​​​​🇱​​​​​🇺​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​ 🇷​​​​​🇪​​​​​🇵​​​​​🇴​​​​​🇷​​​​​🇹 ​​​​​🇴‌🇫‌ 🇸‌🇪‌🇱‌🇫‌ 🇦‌🇳‌🇩‌ 🇹‌🇪‌🇦‌🇲‌ 🇲‌🇪‌🇲‌🇧‌🇪‌🇷‌🇸‌</h1>
 
 <details>
-<summary><h2 align="center">Ｏｂｊｅｃｔｉｖｅ</h2></summary><br>
+<summary><h2 align="center">OBJECTIVE</h2></summary><br>
 
 ### The objective of the task was 
 - Self analysis and analysis of team members performance based on different aspects.
@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary><h2 align="center">Ｔｅｓｔ ｃａｓｅｓ</h2></summary>
+<summary><h2 align="center">ＴEST CASES</h2></summary>
 <br>
 
 <img src="https://github.com/additivats01/tasks/blob/master/gitsnap.PNG" height=600>|
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary><h2 align="center">Ｔｅｓｔ Ｒｅｓｕｌｔｓ</h2></summary>
+<summary><h2 align="center">ＴEST RESULTS</h2></summary>
 <br>
 
 ### Test Case 1 
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-<summary><h2 align="center">Ｈｏｗ ｉｔ ｗａｓ ｉｍｐｌｅｍｅｎｔｅｄ</summary><br>
+<summary><h2 align="center">ＨOW IT WAS IMPLEMENTED</summary><br>
 
 ### It was implemented using:
 
@@ -84,7 +84,7 @@ AVERAGE( number1, [number2], ... )
 </details>
 
 <details>
-<summary><h2 align="center">Ｅｘｐｌａｎａｔｉｏｎ ｏｆ ｉｍｐｌｅｍｅｎｔａｔｉｏｎ</h2></summary>
+<summary><h2 align="center">ＥXPLANATION OF IMPLEMENTATION</h2></summary>
 <br>
 
 ### STEPS INVOLVED:
@@ -100,7 +100,7 @@ AVERAGE( number1, [number2], ... )
 
 
 <details>
-<summary><h2 align="center">Ｃｏｎｃｌｕｓｉｏｎ</h2></summary><br>
+<summary><h2 align="center">CONCLUSION</h2></summary><br>
 <!-- During this activity i learned about how a complex problem is solved by breaking it into smaller parts which makes it easy to understand and easy to solve.
 This exercise was very interesting i also learned about VLOOKUP() function and its proper application to map a table for look up which is quite awesome and about conditional formatting and applied it to the best of my understanding. -->
 
