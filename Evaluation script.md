@@ -7,7 +7,8 @@ objective of script :
 * Manipulating csv file to take only desired data
 * Saving the desired data in new file 
 * The output should appear as 
-  ``` Name : abc 
+  ```
+      Name : abc 
       Average : aa
       Sum : bb
   ```
