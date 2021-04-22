@@ -8,9 +8,9 @@ objective of script :
 * Saving the desired data in new file 
 * The output should appear as 
   ```
-      Name : abc 
+      Name    : abc 
       Average : aa
-      Sum : bb
+      Sum     : bb
   ```
 </details>
 <details>
