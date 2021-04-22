@@ -3,9 +3,10 @@
 <summary><h1 align="center">𝙾𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎</h1></summary>
 objective of script :
 
-* Downloading Google Spreadsheet as csv
+* Google Sheet will be downloaded in the form of CSV
 * Manipulating csv file to take only desired data
-* Saving the desired data in new file in required output format i.e `Name : abc Average : aa Sum : bb`
+* Saving the desired data in new file 
+* The output should appear as  `Name : abc Average : aa Sum : bb`
 </details>
 <details>
 <summary><h1 align="center">𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗</h1></summary>
