@@ -62,15 +62,18 @@ Fetching particular column of csv:
 |`T5`|when a new column is added to the csv file |it will automatically also includes the new column for the average calculation| we don't specified the exact number for multiplication to calculate result it will calculated automatically |<img src="https://github.com/additivats01/tasks/blob/master/Images/sum.png" height=70>|`PASS`|
 |`T6`|Getting name, sum, average for each record individually|We get the desired output|Script printed the name, sum ,average according to the format|<img src="https://github.com/additivats01/tasks/blob/master/Images/output.png" height=70>|`PASS`|
 </details>
-<details>
+
 <details>
 <summary><h1 align="center"> S𝚌𝚛𝚒𝚙𝚝</h1></summary>
 <img src="https://github.com/additivats01/tasks/blob/master/Images/script.gif" alt="demo">
 </details>
+
  <details>
 <summary><h1 align="center"> Configuration File</h1></summary>
 <img src="https://github.com/additivats01/tasks/blob/master/Images/configuration.gif" alt="demo">
 </details>
+
+<details>
 <summary><h1 align="center"> 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚜𝚌𝚛𝚒𝚙𝚝</h1></summary>
 <img src="https://github.com/additivats01/tasks/blob/master/Images/output.gif" alt="demo">
 </details>
