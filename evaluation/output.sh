@@ -4,7 +4,6 @@
 # -O argument is used for naming the sheet
 # -q argument used here so that download output is not  visible
 ## wget for  Ist sheet
-
 wget -q -O sheet1.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-phtN40-3HzrurRtZCRJ7-R8JqxVmlSHH7eLAedBxS_MP0ME-skjWiUZ9y2_hnnH-Ay_A4xGJ8poR/pub?gid=128095267&single=true&output=csv"
 
 ## wget for 2nd sheet
