@@ -1,4 +1,4 @@
-##################################################### output of first  file ######################  
+################################## Output of Ist sheet #############################################
 Name : Himanshu Gupta 
  Sum : 40 
  Avg : 5
@@ -33,8 +33,8 @@ Name : Dharamveer
  Sum : 40 
  Avg : 5
 Name : Rishabh 
- Sum : 0 
- Avg : #N/A
+ Sum : 26 
+ Avg : 3.25
 Name : Pravesh Singh 
  Sum : 24 
  Avg : 3
@@ -54,8 +54,8 @@ Name : Aayon Mukherjee
  Sum : 40 
  Avg : 5
 Name : Vaibhav Vats 
- Sum : 40 
- Avg : 5
+ Sum : 0 
+ Avg : #N/A
 Name : Shweta Mishra 
  Sum : 39 
  Avg : 4.875
@@ -65,7 +65,7 @@ Name : Amandeep
 Name : Additi 
  Sum : 40 
  Avg : 5
-##################################################### output of second file ######################  
+################################## Output of 2nd sheet #############################################
 Name : Himanshu Gupta 
  Sum : 40 
  Avg : 5
@@ -115,17 +115,17 @@ Name : Tarun Kumar
  Sum : 38 
  Avg : 4.75
 Name : Bittu(OPJ) 
- Sum : 40 
- Avg : 5
+ Sum : 17 
+ Avg : 2.125
 Name : Aayon Mukherjee 
- Sum : 34 
- Avg : 4.25
+ Sum : 30 
+ Avg : 3.75
 Name : Vaibhav Vats 
  Sum : 40 
  Avg : 5
 Name : Shweta Mishra 
- Sum : 35 
- Avg : 4.375
+ Sum : 33 
+ Avg : 4.125
 Name : Amandeep 
  Sum : 38 
  Avg : 4.75

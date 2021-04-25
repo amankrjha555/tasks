@@ -32,8 +32,8 @@ Name : Dharamveer
  Sum : 40 
  Avg : 5
 Name : Rishabh 
- Sum : 0 
- Avg : #N/A
+ Sum : 26 
+ Avg : 3.25
 Name : Pravesh Singh 
  Sum : 24 
  Avg : 3
@@ -53,8 +53,8 @@ Name : Aayon Mukherjee
  Sum : 40 
  Avg : 5
 Name : Vaibhav Vats 
- Sum : 40 
- Avg : 5
+ Sum : 0 
+ Avg : #N/A
 Name : Shweta Mishra 
  Sum : 39 
  Avg : 4.875
