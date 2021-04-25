@@ -58,7 +58,7 @@ Fetching particular column of csv:
 |`T1`|when a new record is added to the csv file |It will automatically also include the new record output|we can accomplished this by using awk condition `awk -F , '$1 ~ /^[0-9]+$` |<img src="https://github.com/additivats01/tasks/blob/master/Images/T1.PNG" height=50>| `PASS `|
 |`T2`|when the user don't know the exact column number but know the column name specified|Script automatically calculate the column number using the column name|We don't specified column number for Name and Average it is calculated automatically|<img src="https://github.com/additivats01/tasks/blob/master/Images/T2.PNG" height=70>|`PASS`|
 |`T3`|If in csv average value is not present/not applicable |We want desired output|Without average we can't calculate the sum so doen't get the desired output|<img src="https://github.com/additivats01/tasks/blob/master/Images/T3.PNG" height=40>|`Fail`|
-|`T4`|
+|`T4`|if column is deleted or added | it will count no of added and deleted columns | it doen't calculate the count automatically |<img src=""|
 |`T5`|when a new column is added to the csv file |it will automatically also includes the new column for the average calculation| we don't specified the exact number for multiplication to calculate result it will calculated automatically |<img src="https://github.com/additivats01/tasks/blob/master/Images/sum.png" height=70>|`PASS`|
 |`T6`|Getting name, sum, average for each record individually|We get the desired output|Script printed the name, sum ,average according to the format|<img src="https://github.com/additivats01/tasks/blob/master/Images/output.png" height=70>|`PASS`|
 </details>
