@@ -63,6 +63,11 @@ Fetching particular column of csv:
 |`T6`|Getting name, sum, average for each record individually|We get the desired output|Script printed the name, sum ,average according to the format|<img src="https://github.com/additivats01/tasks/blob/master/Images/output.png" height=70>|`PASS`|
 </details>
 
+<details>
+<summary><h1 align="center"> 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚜𝚌𝚛𝚒𝚙𝚝</h1></summary>
+<img src="https://github.com/additivats01/tasks/blob/master/Images/output.gif" alt="demo">
+</details>
+
  <details>
 <summary><h1 align="center">𝙲𝚘𝚗𝚌𝚕𝚞𝚜𝚒𝚘𝚗</h1></summary>
 I hereby concludes that the script at discussion is fully operational and working as per requirement.
