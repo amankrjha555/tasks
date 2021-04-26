@@ -16,7 +16,7 @@ objective of script :
 <details>
 <summary><h1 align="center">𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗</h1></summary>
 
-I have used `wget` command to download csv from google spreadsheet link  with the argument `-O` for naming the file and used `awk` command  for pattern scanning and processing .It  manipulate data from downloaded csv and then stored the new output using redirection operator `>` in `awk` command and also  an argument `-F` "," for using , as delimeter by default .
+I have used `wget` command to download csv from google spreadsheet link  with the argument `-O` for naming the file , `q` so that downloading contents of output are not visible and used `awk` command  for pattern scanning and processing .It  manipulate data from downloaded csv and then stored the new output using redirection operator `>` in `awk` command and also  an argument `-F` "," for using , as delimeter by default .
 
 <h4>Steps followed are:</h4>
 
