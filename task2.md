@@ -10,5 +10,5 @@ objective of testing script :
       Sum     : bb
   ```
 * To analyse the script is reliable 
-* 
+* The script is fully operational and working as per requirement
 </details>
