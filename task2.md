@@ -30,4 +30,4 @@ objective of testing script :
    |`5`|If Config file is linked to the Script and logs are generated for the script|Pass or Fail|
    |`6`|If adding the Extra columns or rows will make the script to run and generate desired output|Pass or Fail|
  
- </details
+ </details>
