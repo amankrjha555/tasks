@@ -3,7 +3,7 @@
 <summary><h1 align="center">𝙾𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎</h1></summary>
 objective of testing script :
 
-* The output of the script should appear as 
+* The output of the  script which we have to check  should appear as 
   ```
       Name    : abc 
       Average : aa
