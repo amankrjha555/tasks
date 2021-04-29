@@ -16,10 +16,10 @@ objective of testing script :
 </details>
 
 <details>
-  ```
-<h2 align="center">TEST CASES</h2>
+ 
+<h1 align="center">TEST CASES</h1>
 <p align=center> We have to create a new script which is  used to test the script.sh  according to different test cases with status. So that we can know how much reliable is our script and working as per requirement.</p>
-  ```
+ 
  
    |Sr No.|Test Cases|Condition|
    |:----:|:----:|:----:|
