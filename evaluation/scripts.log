@@ -1,0 +1,54 @@
+2021.04.30-23.39.58.log [SUCCESS]: downloaded first spreadsheet successfully
+2021.04.30-23.39.58.log [SUCCESS]: downloaded second spreadsheet successfully
+2021.04.30-23.39.58.log [SUCCESS]: Downloaded the sheet1.csv & sheet2.csv
+2021.04.30-23.39.58.log [SUCCESS]: variables declare to find the column no for intern name from sheet 1
+2021.04.30-23.39.58.log [SUCCESS]: variables declare to find the column no for average from sheet 1
+2021.04.30-23.39.58.log [SUCCESS]: variables declare to find the column no for intern name from sheet 2
+2021.04.30-23.39.58.log [SUCCESS]: variables declare to find the column no for average from sheet 2
+2021.04.30-23.39.58.log [SUCCESS]: variables declare to find the column no for intern name from sheet 1
+2021.04.30-23.39.58.log [SUCCESS]: variables declare to find the column no for average from sheet 1
+2021.04.30-23.39.58.log [SUCCESS]: variables declare to find the column no for intern name from sheet 2
+2021.04.30-23.39.58.log [SUCCESS]: variables declare to find the column no for average from sheet 2
+2021.04.30-23.39.58.log [SUCCESS]: value1 gives the exact no of value which is multiplied with the average for calculating the sum for sheet 1
+2021.04.30-23.39.58.log [SUCCESS]: value2 gives the exact no of value which is multiplied with the average for calculating the sum for sheet 2
+2021.04.30-23.39.58.log {SUCCESS]: extracted Name, Sum, Average from sheet1
+2021.04.30-23.39.58.log {SUCCESS]: extracted Name, Sum, Average from sheet2
+2021.04.30-23.39.58.log [SUCCESS]: Extracted the output of Ist sheet
+2021.04.30-23.39.58.log [SUCCESS]: Extracted the output of 2nd sheet
+2021.04.30-23.39.58.log [SUCCESS]: Extracted the output of Ist sheet and 2nd sheet and stored in final.txt
+2021.04.30-23.41.10.log [SUCCESS]: downloaded first spreadsheet successfully
+2021.04.30-23.41.10.log [SUCCESS]: downloaded second spreadsheet successfully
+2021.04.30-23.41.10.log [SUCCESS]: Downloaded the sheet1.csv & sheet2.csv
+2021.04.30-23.41.10.log [SUCCESS]: variables declare to find the column no for intern name from sheet 1
+2021.04.30-23.41.10.log [SUCCESS]: variables declare to find the column no for average from sheet 1
+2021.04.30-23.41.10.log [SUCCESS]: variables declare to find the column no for intern name from sheet 2
+2021.04.30-23.41.10.log [SUCCESS]: variables declare to find the column no for average from sheet 2
+2021.04.30-23.41.10.log [SUCCESS]: variables declare to find the column no for intern name from sheet 1
+2021.04.30-23.41.10.log [SUCCESS]: variables declare to find the column no for average from sheet 1
+2021.04.30-23.41.10.log [SUCCESS]: variables declare to find the column no for intern name from sheet 2
+2021.04.30-23.41.10.log [SUCCESS]: variables declare to find the column no for average from sheet 2
+2021.04.30-23.41.10.log [SUCCESS]: value1 gives the exact no of value which is multiplied with the average for calculating the sum for sheet 1
+2021.04.30-23.41.10.log [SUCCESS]: value2 gives the exact no of value which is multiplied with the average for calculating the sum for sheet 2
+2021.04.30-23.41.10.log {SUCCESS]: extracted Name, Sum, Average from sheet1
+2021.04.30-23.41.10.log {SUCCESS]: extracted Name, Sum, Average from sheet2
+2021.04.30-23.41.10.log [SUCCESS]: Extracted the output of Ist sheet
+2021.04.30-23.41.10.log [SUCCESS]: Extracted the output of 2nd sheet
+2021.04.30-23.41.10.log [SUCCESS]: Extracted the output of Ist sheet and 2nd sheet and stored in final.txt
+2021.04.30-23.42.24.log [SUCCESS]: downloaded first spreadsheet successfully
+2021.04.30-23.42.24.log [SUCCESS]: downloaded second spreadsheet successfully
+2021.04.30-23.42.24.log [SUCCESS]: Downloaded the sheet1.csv & sheet2.csv
+2021.04.30-23.42.24.log [SUCCESS]: variables declare to find the column no for intern name from sheet 1
+2021.04.30-23.42.24.log [SUCCESS]: variables declare to find the column no for average from sheet 1
+2021.04.30-23.42.24.log [SUCCESS]: variables declare to find the column no for intern name from sheet 2
+2021.04.30-23.42.24.log [SUCCESS]: variables declare to find the column no for average from sheet 2
+2021.04.30-23.42.24.log [SUCCESS]: variables declare to find the column no for intern name from sheet 1
+2021.04.30-23.42.24.log [SUCCESS]: variables declare to find the column no for average from sheet 1
+2021.04.30-23.42.24.log [SUCCESS]: variables declare to find the column no for intern name from sheet 2
+2021.04.30-23.42.24.log [SUCCESS]: variables declare to find the column no for average from sheet 2
+2021.04.30-23.42.24.log [SUCCESS]: value1 gives the exact no of value which is multiplied with the average for calculating the sum for sheet 1
+2021.04.30-23.42.24.log [SUCCESS]: value2 gives the exact no of value which is multiplied with the average for calculating the sum for sheet 2
+2021.04.30-23.42.24.log {SUCCESS]: extracted Name, Sum, Average from sheet1
+2021.04.30-23.42.24.log {SUCCESS]: extracted Name, Sum, Average from sheet2
+2021.04.30-23.42.24.log [SUCCESS]: Extracted the output of Ist sheet
+2021.04.30-23.42.24.log [SUCCESS]: Extracted the output of 2nd sheet
+2021.04.30-23.42.24.log [SUCCESS]: Extracted the output of Ist sheet and 2nd sheet and stored in final.txt
