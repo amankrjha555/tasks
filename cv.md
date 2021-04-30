@@ -12,3 +12,19 @@
 `Mandothi Bazar, Bahadurgarh, Haryana`
 
 ------------
+
+<details>
+<summary><h2 align="center">🅴🅳🆄🅲🅰🆃🅸🅾🅽</h2></summary>
+<br>
+  
+- **BCA** from Maharaja Agrasen University, Himachal Pradesh in 2020
+- **10+2** from Vijaya Senior Secondary School(CBSE), Bahadurgarh in 2017
+- **10th** from Vijaya Senior Secondary School(CBSE), Bahadurgarh in 2015
+</details>
+
+<details>
+  <summary><h2 align="center">SKILLS></h2></summary>
+ *	Programming languages: - C/C++, Python, Basic Java 
+ * Domains: - Artificial Intelligence, Machine Learning  , Data Science
+ * Miscellaneous: - SQL,Ms excel 
+</details>
