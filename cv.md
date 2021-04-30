@@ -9,11 +9,6 @@
 
 `vatsadditi1799@gmail.com`
 
-`Imli wali gali, Bahadurgarh, Haryana`
+`Mandothi Bazar, Bahadurgarh, Haryana`
 
 ------------
-
-<p  align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=vibhu004.vibhu004" alt="visitorbadge"/>
-</p>
-
