@@ -6,7 +6,7 @@ source $PWD/variables2.config
 
 NOW=$(date "+%Y.%m.%d-%H.%M.%S")
 
-LOGFILE="log-$NOW.log"
+LOGFILE="$NOW.log"
 
 #wget is used to download this url which is published in the csv form is saved in sheet1.csv and sheet2.csv
 ## -O argument is used for naming the sheet
@@ -93,7 +93,7 @@ echo "$LOGFILE [SUCCESS]: variables declare to find the column no for average fr
 ##  The sed expression s/,/ /g replaces every comma with a space character
 #  here value1 gives the exact no of value which is multiplied with the average for calculating the sum
 #  shopt -s nocasematch for case insensitive search
-num1=`$CAT $DIR/$file1|$AWK -F , '$1 ~ /^[0-9]+$/'|$AWK 'FNR == 1'|$SED 's/ /$/g'|$SED 's/,/ /g'`
+num1=`$CAT $DIR/$file1|$AWK -F , '$1 ~ /^[0-9]+$/'|$AWK  -v 'FNR ==  "first_row=$row1" '|$SED 's/ /$/g'|$SED 's/,/ /g'`
 value1=0
 for i in $num1
 do
@@ -117,7 +117,7 @@ echo "$LOGFILE [SUCCESS]: value1 gives the exact no of value which is multiplied
 
 
 
-num2=`$CAT $DIR/$file2|$AWK -F , '$1 ~ /^[0-9]+$/'|$AWK 'FNR == 1'|$SED 's/ /$/g'|$SED 's/,/ /g'`
+num2=`$CAT $DIR/$file2|$AWK -F , '$1 ~ /^[0-9]+$/'|$AWK -v 'FNR ==  "second_row=$row2" '|$SED 's/ /$/g'|$SED 's/,/ /g'`
 value2=0
 for i in $num1
 do
