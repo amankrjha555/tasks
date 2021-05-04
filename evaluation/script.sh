@@ -46,15 +46,10 @@ inc1=1
 col_no1=$((commas1+inc1))
 echo "$LOGFILE [SUCCESS]: variables declare to find the column no for intern name from sheet 1">>script.log
 #
-commas1=$($GREP -i "$column1" $DIR/$file1|$AWK -F "$column1" '{print $1}'|$TR -cd , | $WC -c) ### Gives number of commas prior to that col. name
-inc1=1
-col_no1=$((commas1+inc1))
-echo "$LOGFILE [SUCCESS]: variables declare to find the column no for intern name from sheet 1">>script.log
-#
+
 commas2=$($GREP -i "$column2" $DIR/$file1|$AWK -F "$column2" '{print $1}'|$TR -cd , | $WC -c) ### Gives number of commas prior to that col. name
 inc2=1
 col_no2=$((commas2+inc2))
-
 echo "$LOGFILE [SUCCESS]: variables declare to find the column no for average from sheet 1">>script.log
 
 
