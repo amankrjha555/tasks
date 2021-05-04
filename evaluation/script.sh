@@ -173,6 +173,6 @@ echo "$LOGFILE [FAIL]: Something went wrong in URLs . please check the URLs">>sc
 # condition fails then remove the blank sheet1 and sheet2
 rm $DIR/$file1 $DIR/$file2
 fi
- &>$LOGFILE
+ 
 
 
