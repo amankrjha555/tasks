@@ -19,8 +19,8 @@
 |-----|------|----------------|----------------|-------------|
 |`1`|Testing VLOOKUP() function on a random cell with Value Excellent|Print value  5|Printed value 5|Pass|
 |`2`|Testing for Case-Sensitivity by replacing good with excellent|Print value  5|Printed value 5|Pass|
-|`3`|Testing VLOOKUP() function on entire row for average and storing its value on average column. 
-|`4`|Testing AVERAGE() function|Average of row|Printed average|Pass|
+|`3`|Testing VLOOKUP() function on entire row for average and storing its value on average column |printed average | printed average| PASS| 
+|`4`|Testing AVERAGE() function for all rows|Average of rows|Printed average|Pass|
 |`5`|Conditional Formatting|Highlight row with red whose average is less than 2.5 |Highlighted Accurately|Pass|
 
 <!--### Test Case 1
