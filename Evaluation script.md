@@ -61,7 +61,7 @@ Fetching particular column of csv:
 |`T4`|if column is deleted or added | it will count no of added and deleted columns | it doen't calculate the count automatically |<img src="https://github.com/additivats01/tasks/blob/master/Images/multiplication.png" height=100>|`FAIL`|
 |`T5`|when a new column is added to the csv file |it will automatically also includes the new column for the average calculation| we don't specified the exact number for multiplication to calculate result it will calculated automatically |<img src="https://github.com/additivats01/tasks/blob/master/Images/sum.png" height=70>|`PASS`|
 |`T6`|Getting name, sum, average for each record individually|We get the desired output|Script printed the name, sum ,average according to the format|<img src="https://github.com/additivats01/tasks/blob/master/Images/output.png" height=70>|`PASS`|
-| `T7`| Variables used in script stored in configuration file| variables are stored in configuration file| successfully stored variables in configuration file|| |`PASS`|
+| `T7`| Variables used in script stored in configuration file| variables are stored in configuration file| successfully stored variables in configuration file| |`PASS`|
 | `T8`| Creation of Logfile| logs of running script must be stored in logfile| successfully stored the logs | | `PASS`|
 
 </details>
