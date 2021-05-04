@@ -4,9 +4,9 @@ source $PWD/variables2.config
 
 ## log file has been created to store the logs of the file
 
-NOW=$(date "+%Y.%m.%d-%H.%M.%S")
+LOG=$(date "+%Y.%m.%d-%H.%M.%S")
 
-LOGFILE="$NOW.log"
+LOGFILE="$LOG"
 
 #wget is used to download this url which is published in the csv form is saved in sheet1.csv and sheet2.csv
 ## -O argument is used for naming the sheet
