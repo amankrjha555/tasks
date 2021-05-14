@@ -34,8 +34,11 @@ A short description about my understanding and basic knowledge gained from Etran
  <h3>About Monitoring Tools</h3>
  
  
- - <h2> 𝒩𝒜𝒢𝐼𝒪𝒮 </h2>
- 
+ - <h2> 𝐍𝐀𝐆𝐈𝐎𝐒 </h2>
+
+
+Nagios, is a free and open-source computer-software application that monitors systems, networks and infrastructure. Nagios offers monitoring and alerting services for servers, switches, applications and services. It alerts users when things go wrong and alerts them a second time when the problem has been resolved.
+
  
  
 
