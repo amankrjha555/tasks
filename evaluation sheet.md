@@ -65,8 +65,6 @@ VLOOKUP( lookup_value, table_array, col_index_num, [range_lookup] )
 ```
 
 
-```
-
 - Average() function
 ```
 AVERAGE( number1, [number2], ... )
