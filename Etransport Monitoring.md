@@ -10,21 +10,21 @@ A short description about my understanding and basic knowledge gained from Etran
   <h2> 𝐒𝐞𝐫𝐯𝐞𝐫𝐬 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐢𝐧 𝐄𝐓𝐑𝐀𝐍𝐒𝐏𝐎𝐑𝐓 𝐚𝐫𝐞:</h2>
   
   
- - <h2>E̲c̲h̲a̲l̲l̲a̲n̲  </h2>   ( Electronic Challan for Fine,and other traffic offences)
+ - <h2> E̲c̲h̲a̲l̲l̲a̲n̲  </h2>   ( Electronic Challan for Fine,and other traffic offences)
   
- - V̲a̲h̲a̲n̲        ( RTO activities - Registration , Fitness, Permit etc.)
+ - <h2> V̲a̲h̲a̲n̲    </h2>   ( RTO activities - Registration , Fitness, Permit etc.)
  
- - S̲a̲r̲a̲t̲h̲i̲      ( Vehicle licensing for Driving)
+ - <h2>S̲a̲r̲a̲t̲h̲i̲   </h2>   ( Vehicle licensing for Driving)
 
-- D̲a̲t̲a̲l̲a̲k̲e̲      ( Cloud for data storage)
+- <h2>D̲a̲t̲a̲l̲a̲k̲e̲   </h2>   ( Cloud for data storage)
  
- - P̲U̲C̲C̲         (Pollution Under Control certificate of vehicles)
+ -<h1> P̲U̲C̲C̲      </h1>   (Pollution Under Control certificate of vehicles)
  
- - I̲T̲M̲S̲         (Intelligent Transportation Management System)
+ -<h2> I̲T̲M̲S̲      </h2>   (Intelligent Transportation Management System)
  
- - D̲T̲P̲          (Delhi Traffic Police)
+ - <h2>D̲T̲P̲     </h2>     (Delhi Traffic Police)
  
- - M̲p̲a̲r̲i̲v̲a̲h̲a̲n̲   (Application to check RC, DL status)
+ - <h2>M̲p̲a̲r̲i̲v̲a̲h̲a̲n̲  </h2> (Application to check RC, DL status)
 
 
   
