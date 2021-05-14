@@ -8,10 +8,9 @@ A short description about my understanding and basic knowledge gained from Etran
 <details>
 <summary><h2 align="center">🆂🅴🆁🆅🅴🆁🆂</h2></summary>
   <h2> 𝐒𝐞𝐫𝐯𝐞𝐫𝐬 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐢𝐧 𝐄𝐓𝐑𝐀𝐍𝐒𝐏𝐎𝐑𝐓 𝐚𝐫𝐞:</h2>
-  <h3>
- 
   
- - E̲c̲h̲a̲l̲l̲a̲n̲     ( Electronic Challan for Fine,and other traffic offences)
+  
+ - <h2>E̲c̲h̲a̲l̲l̲a̲n̲  </h2>   ( Electronic Challan for Fine,and other traffic offences)
   
  - V̲a̲h̲a̲n̲        ( RTO activities - Registration , Fitness, Permit etc.)
  
@@ -27,5 +26,5 @@ A short description about my understanding and basic knowledge gained from Etran
  
  - M̲p̲a̲r̲i̲v̲a̲h̲a̲n̲   (Application to check RC, DL status)
 
-  </h3>
+
   
