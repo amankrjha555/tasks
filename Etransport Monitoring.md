@@ -16,17 +16,17 @@ A short description about my understanding and basic knowledge gained from Etran
   
  - <h2> V̲a̲h̲a̲n̲    </h2>   ( RTO activities - Registration , Fitness, Permit etc.)
  
- - <h2>S̲a̲r̲a̲t̲h̲i̲   </h2>   ( Vehicle licensing for Driving)
+ - <h2> S̲a̲r̲a̲t̲h̲i̲   </h2>   ( Vehicle licensing for Driving)
 
-- <h2>D̲a̲t̲a̲l̲a̲k̲e̲   </h2>   ( Cloud for data storage)
+- <h2> D̲a̲t̲a̲l̲a̲k̲e̲   </h2>   ( Cloud for data storage)
  
- -<h2> P̲U̲C̲C̲      </h2>   (Pollution Under Control certificate of vehicles)
+ - <h2> P̲U̲C̲C̲      </h2>   (Pollution Under Control certificate of vehicles)
  
- -<h2> I̲T̲M̲S̲      </h2>   (Intelligent Transportation Management System)
+ - <h2> I̲T̲M̲S̲      </h2>   (Intelligent Transportation Management System)
  
- - <h2>D̲T̲P̲     </h2>     (Delhi Traffic Police)
+ - <h2> D̲T̲P̲     </h2>     (Delhi Traffic Police)
  
- - <h2>M̲p̲a̲r̲i̲v̲a̲h̲a̲n̲  </h2> (Application to check RC, DL status)
+ - <h2> M̲p̲a̲r̲i̲v̲a̲h̲a̲n̲  </h2> (Application to check RC, DL status)
 
 
   
