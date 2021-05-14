@@ -40,8 +40,9 @@ A short description about my understanding and basic knowledge gained from Etran
 
 Nagios, is a free and open-source computer-software application that monitors systems, networks and infrastructure. Nagios offers monitoring and alerting services for servers, switches, applications and services. It alerts users when things go wrong and alerts them a second time when the problem has been resolved.
 
-
+<p align="center">
 <img align="middle" src="https://github.com/additivats01/tasks/blob/master/Images/Comprehensive_Monitoring_Drop2.jpg" height=300 >
+ </P>
 - <h2>GRAFFANA</h2>
 
 
