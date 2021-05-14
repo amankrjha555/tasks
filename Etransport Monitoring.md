@@ -7,6 +7,8 @@ A short description about my understanding and basic knowledge gained from Etran
 </details>
 <details>
 <summary><h2 align="center">🆂🅴🆁🆅🅴🆁🆂</h2></summary>
+  
+  
   <h2> 𝐒𝐞𝐫𝐯𝐞𝐫𝐬 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐢𝐧 𝐄𝐓𝐑𝐀𝐍𝐒𝐏𝐎𝐑𝐓 𝐚𝐫𝐞:</h2>
   
   
@@ -18,7 +20,7 @@ A short description about my understanding and basic knowledge gained from Etran
 
 - <h2>D̲a̲t̲a̲l̲a̲k̲e̲   </h2>   ( Cloud for data storage)
  
- -<h1> P̲U̲C̲C̲      </h1>   (Pollution Under Control certificate of vehicles)
+ -<h2> P̲U̲C̲C̲      </h2>   (Pollution Under Control certificate of vehicles)
  
  -<h2> I̲T̲M̲S̲      </h2>   (Intelligent Transportation Management System)
  
