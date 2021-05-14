@@ -3,7 +3,9 @@
 <summary><h2 align="center">🅾🅱🅹🅴🅲🆃🅸🆅🅴</h2></summary>
 A short description about my understanding and basic knowledge gained from Etransport Monitoring and SOP Etransport sheets.
   
-<img align="center" src="https://github.com/additivats01/tasks/blob/master/Images/etransport03-1.png" height=400 >
+<p align="center">
+<img src="https://github.com/additivats01/tasks/blob/master/Images/etransport03-1.png" height=400 >
+</p>
 </details>
 <details>
 <summary><h2 align="center">🆂🅴🆁🆅🅴🆁🆂</h2></summary>
@@ -41,7 +43,7 @@ A short description about my understanding and basic knowledge gained from Etran
 Nagios, is a free and open-source computer-software application that monitors systems, networks and infrastructure. Nagios offers monitoring and alerting services for servers, switches, applications and services. It alerts users when things go wrong and alerts them a second time when the problem has been resolved.
 
 <p align="center">
-<img align="middle" src="https://github.com/additivats01/tasks/blob/master/Images/Comprehensive_Monitoring_Drop2.jpg" height=300 >
+<img src="https://github.com/additivats01/tasks/blob/master/Images/Comprehensive_Monitoring_Drop2.jpg" height=300 >
  </P>
 - <h2>GRAFFANA</h2>
 
@@ -49,9 +51,9 @@ Nagios, is a free and open-source computer-software application that monitors sy
 Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
 
 
-
+<p align="center">
 <img align="middle" src="https://github.com/additivats01/tasks/blob/master/Images/Grafana_dashboard-1-1480x740.png" height=300 >
-
+</p>
 </details>
 
  <details>
