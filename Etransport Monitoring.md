@@ -48,9 +48,23 @@ Grafana is a multi-platform open source analytics and interactive visualization 
 </details>
 
  <details>
- <summary><h2 align="center"></h2></summary>
+ <summary><h2 align="center">🆂🅴🆁🆅🅸🅲🅴 🅻🅴🆅🅴🅻 🅰🅶🆁🅴🅴🅼🅴🅽🆃</h2></summary>
  
- <h3>About Monitoring Tools</h3>
+ <h3> 𝓖𝓪𝓽𝓱𝓮𝓻𝓮𝓭 𝓴𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓪𝓫𝓸𝓾𝓽 𝓢𝓛𝓐:</h3>
+
+SLA stands for the “service-level agreement.” It is an agreement between a party that offers some service(s) and users of those service(s). The contract includes the list of services and highlights the quality standards that the provider should follow to guarantee customer satisfaction. The 3 Types of SLA are:
+
+
+-  Customer-based SLA
+
+
+- Service-oriented SLA
+
+
+- Multi-level SLA
+
+</details>
+
 
 
 
