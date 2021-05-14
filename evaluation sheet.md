@@ -95,3 +95,9 @@ AVERAGE( number1, [number2], ... )
 <summary><h2 align="center">Ｃｏｎｃｌｕｓｉｏｎ</h2></summary><br>
 <!-- During this activity i learned about how a complex problem is solved by breaking it into smaller parts which makes it easy to understand and easy to solve.
 This exercise was very interesting i also learned about VLOOKUP() function and its proper application to map a table for look up which is quite awesome and about conditional formatting and applied it to the best of my understanding. -->
+  
+  </details> -->
+
+
+<!-- =VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE) -->
+
