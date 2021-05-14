@@ -7,9 +7,8 @@ A short description about my understanding and basic knowledge gained from Etran
 </details>
 <details>
 <summary><h2 align="center">🆂🅴🆁🆅🅴🆁🆂</h2></summary>
-  𝐒𝐞𝐫𝐯𝐞𝐫𝐬 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐢𝐧 𝐄𝐓𝐑𝐀𝐍𝐒𝐏𝐎𝐑𝐓 𝐚𝐫𝐞:
-  
-  
+  <h2> 𝐒𝐞𝐫𝐯𝐞𝐫𝐬 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐢𝐧 𝐄𝐓𝐑𝐀𝐍𝐒𝐏𝐎𝐑𝐓 𝐚𝐫𝐞:</h2>
+  <h3>
  
   
  - E̲c̲h̲a̲l̲l̲a̲n̲     ( Electronic Challan for Fine,and other traffic offences)
@@ -20,13 +19,13 @@ A short description about my understanding and basic knowledge gained from Etran
 
 - D̲a̲t̲a̲l̲a̲k̲e̲      ( Cloud for data storage)
  
- - PUCC              (Pollution Under Control certificate of vehicles)
+ - P̲U̲C̲C̲         (Pollution Under Control certificate of vehicles)
  
- - ITMS               (Intelligent Transportation Management System)
+ - I̲T̲M̲S̲         (Intelligent Transportation Management System)
  
- - DTP                 (Delhi Traffic Police)
+ - D̲T̲P̲          (Delhi Traffic Police)
  
- - Mparivahan   (Application to check RC, DL status)
+ - M̲p̲a̲r̲i̲v̲a̲h̲a̲n̲   (Application to check RC, DL status)
 
-  
+  </h3>
   
