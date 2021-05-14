@@ -41,8 +41,7 @@ A short description about my understanding and basic knowledge gained from Etran
 Nagios, is a free and open-source computer-software application that monitors systems, networks and infrastructure. Nagios offers monitoring and alerting services for servers, switches, applications and services. It alerts users when things go wrong and alerts them a second time when the problem has been resolved.
 
 
-<img src="https://github.com/additivats01/tasks/blob/master/Images/Comprehensive_Monitoring_Drop2.jpg" height=300  class="center">
-
+<center><img src="https://github.com/additivats01/tasks/blob/master/Images/Comprehensive_Monitoring_Drop2.jpg" height=300 ></center>
 - <h2>GRAFFANA</h2>
 
 
@@ -50,7 +49,7 @@ Grafana is a multi-platform open source analytics and interactive visualization 
 
 
 
-<img src="https://github.com/additivats01/tasks/blob/master/Images/Grafana_dashboard-1-1480x740.png" height=300  class="center">
+<center><img src="https://github.com/additivats01/tasks/blob/master/Images/Grafana_dashboard-1-1480x740.png" height=300 ></center>
 
 </details>
 
