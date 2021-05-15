@@ -96,8 +96,6 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 
 |𝐀𝐩𝐚𝐜𝐡𝐞 𝐓𝐨𝐦𝐜𝐚𝐭 𝐒𝐞𝐫𝐯𝐞𝐫|𝐀𝐩𝐚𝐜𝐡𝐞 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐞𝐫|
 | :------------: | :------------: | 
-
-
 |This server is a JSP/Servlet container.| This server is a HTTP server. It serves the file through the HTTP protocol.|
 |It can handle both static pages and dynamic pages. The dynamic pages are generated using servlet and JSP.|It can handle static pages which are generated using HTML.It can handle dynamic content which are coded in PHP , Ruby or other languages only through add-on modules offered by Apache or any other client.|
 |It can be used only for hosting JAVA based code. | It can be used to host applications written in any programming language. |
