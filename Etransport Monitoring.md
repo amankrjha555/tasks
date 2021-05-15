@@ -117,11 +117,9 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 |`9`|Need to ensure that every alert should be sent after properly checking the details|
 |`10`|Also need to ensure that every alert should go to concerned person and domain.|
 |`11`|It is responsibility of all the team members and specially who is in shift to prepare analysis report ,if client asks.|
-|`12`|It is responsibility of all the team members to change NRPE thresholds, to provide server logs and other detail when required.|
-|`13`|It is responsibility of all the team members to take care of all three nagios servers and other applications.|
-|`14`|It is responsibility of all the team members to take care of belonging of keenable like broadband device.|
-|`15`|To ensure that inform and pass all necessary information to all the team member|
-|`16`|It is responsibility of all the team member to maintain office etiquette and discipline.|
+|`12`|It is responsibility of all the team members to take care of all three nagios servers and other applications.|
+|`13`|To ensure that inform and pass all necessary information to all the team member|
+|`14`|It is responsibility of all the team member to maintain office etiquette and discipline.|
 </details>
 
 
