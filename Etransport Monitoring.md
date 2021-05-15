@@ -77,16 +77,15 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 <details>
  <summary><h2 align="center">🅰🅿🅿🅻🅸🅲🅰🆃🅸🅾🅽 🆂🅴🆁🆅🅸🅲🅴🆂</h2></summary>
  
- <h3> 𝓢𝓽𝓾𝓭𝓲𝓮𝓭 𝓪𝓫𝓸𝓾𝓽 𝓐𝓹𝓹𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷 𝓼𝓮𝓻𝓿𝓲𝓬𝓮𝓼 𝓻𝓾𝓷𝓷𝓲𝓷𝓰 𝓸𝓷 𝓥𝓪𝓱𝓪𝓷 𝓪𝓷𝓭 𝓔𝓬𝓱𝓪𝓵𝓵𝓪𝓷 𝓼𝓮𝓻𝓿𝓮𝓻𝓼:
-</h3>
+ <h3> 𝕾𝖙𝖚𝖉𝖎𝖊𝖉 𝖆𝖇𝖔𝖚𝖙 𝖆𝖕𝖕𝖑𝖎𝖈𝖆𝖙𝖎𝖔𝖓𝖘 𝖗𝖚𝖓𝖓𝖎𝖓𝖌 𝖔𝖓 𝖉𝖎𝖋𝖋𝖊𝖗𝖊𝖓𝖙 𝖘𝖊𝖗𝖛𝖊𝖗𝖘 : </h3>
 
-<h2>𝐄𝐜𝐡𝐚𝐥𝐥𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬  𝐕𝐚𝐡𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 </h2>
+<h2>𝐄𝐜𝐡𝐚𝐥𝐥𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 </h2>
 
 - Application services running are: 10.246.40.134, 10.246.40.149
 - On Echallan application servers we use apache and docker instance to deliever web services on apache 1 to 5 instance (port 83,84,85,87,88) 
 - On these servers we are also working on Cronjobs trigerring via monitoring tools to verify all cronjobs are working fine or not.
 
-h3>𝐕𝐚𝐡𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬</h3>
+<h2>𝐕𝐚𝐡𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬</h2>
 
 - Application services running are: 10.246.40.176 , 10.246.40.142,  10.246.40.158,  10.246.40.139,  10.246.40.152 
 - On vahan servers, Multiple Tomcat instances are running to deliever web servives through these port no :- 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94,     95.
