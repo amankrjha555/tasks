@@ -106,7 +106,7 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
   
 |𝐒.𝐍𝐎|𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐈𝐁𝐈𝐋𝐈𝐓𝐈𝐄𝐒|
 | :------------: | :------------: | 
-|`1`||Primary responsibility of all the team members is to Monitor all the servers and raise the issue if any alert comes.
+|`1`||Primary responsibility of all the team members is to Monitor all the servers and raise the issue if any alert comes.|
 |`2`|To monitor all the servers using our monitoring tools. First three nagios tools - AWS nagios, .241 nagios, 59.8 nagios & Two grafanas - .241 grafana and  .59.8 grafana|
 |`3`|All the member need to ensure particularly who is in shift and that if any alert comes on any server, that alert is sent to related group|
 |`4`|If any alert exceeds 5 minutes then need to follow first level escalation matrix procedure.|
