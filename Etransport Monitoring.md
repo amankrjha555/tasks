@@ -82,6 +82,8 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 
 | 𝐄𝐜𝐡𝐚𝐥𝐥𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 | 𝐕𝐚𝐡𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 | 
 | :------------: | :------------: | 
+
+
 |Application services running are: 10.246.40.134, 10.246.40.149|Application services running are: 10.246.40.176 , 10.246.40.142,  10.246.40.158,  10.246.40.139,  10.246.40.152|
 |On Echallan application servers we use apache and docker instance to deliever web services on apache 1 to 5 instance (port 83,84,85,87,88) |On vahan servers, Multiple Tomcat instances are running to deliever web servives through these port no :- 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95 |
 |On these servers we are also working on Cronjobs trigerring via monitoring tools to verify all cronjobs are working fine or not.|On these servers we are monitoring Tomcat,hang,war and AV status services via monitoring tools to check services are working properly or not.|
@@ -96,6 +98,8 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 
 |𝐀𝐩𝐚𝐜𝐡𝐞 𝐓𝐨𝐦𝐜𝐚𝐭 𝐒𝐞𝐫𝐯𝐞𝐫|𝐀𝐩𝐚𝐜𝐡𝐞 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐞𝐫|
 | :------------: | :------------: | 
+
+
 |This server is a JSP/Servlet container.| This server is a HTTP server. It serves the file through the HTTP protocol.|
 |It can handle both static pages and dynamic pages. The dynamic pages are generated using servlet and JSP.|It can handle static pages which are generated using HTML.It can handle dynamic content which are coded in PHP , Ruby or other languages only through add-on modules offered by Apache or any other client.|
 |It can be used only for hosting JAVA based code. | It can be used to host applications written in any programming language. |
