@@ -88,6 +88,7 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 
 <h2>𝐕𝐚𝐡𝐚𝐧 𝐒𝐄𝐑𝐕𝐄𝐑 </h2>
 
+- VAHAN is a highly flexible and comprehensive system that takes care of all the burdensome activities of Vehicle Registration, leaving the Transport Department        to deal with more important business issues. The software enables the processes at RTO/DTO/MLO/SDM involving Vehicle Registration, Fitness, Taxes, Permits & Enforcement to get computerized. 
 - Application services running are: 10.246.40.176 , 10.246.40.142,  10.246.40.158,  10.246.40.139,  10.246.40.152 
 - On vahan servers, Multiple Tomcat instances are running to deliever web servives through these port no :- 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94,     95.
 - On these servers we are monitoring Tomcat,hang,war and AV status services via monitoring tools to check services are working properly or not.
