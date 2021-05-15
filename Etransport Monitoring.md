@@ -105,6 +105,28 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 |It can be used only for hosting JAVA based code. | It can be used to host applications written in any programming language. |
 </details>
 
+<details>
+<summary><h2 align="center"> 🆁🅴🆂🅿🅾🅽🆂🅸🅱🅸🅻🅸🆃🅸🅴🆂</h2></summary>
+  
+|𝐒.𝐍𝐎|𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐈𝐁𝐈𝐋𝐈𝐓𝐈𝐄𝐒|
+| :------------: | :------------: | 
+|`1`||Primary responsibility of all the team members is to Monitor all the servers and raise the issue if any alert comes.
+|`2`|To monitor all the servers using our monitoring tools. First three nagios tools - AWS nagios, .241 nagios, 59.8 nagios & Two grafanas - .241 grafana and  .59.8 grafana|
+|`3`|All the member need to ensure particularly who is in shift and that if any alert comes on any server, that alert is sent to related group|
+|`4`|If any alert exceeds 5 minutes then need to follow first level escalation matrix procedure.|
+|`5`|If any alert exceeds 20 minutes then need to follow second level escalation matrix procedure.|
+|`6`|If any alert exceeds beyond 1 hour then its mandatory to escalate with analysis report.|
+|`7`|All problems are needed to be informed three way. 1. Whatsapp Group. 2. Telephonic communication. 3. Email|
+|`8`|Detail of contact and email of concern person are in contact section|
+|`9`|Need to ensure that every alert should be sent after properly checking the details|
+|`10`|Also need to ensure that every alert should go to concerned person and domain.|
+|`11`|It is responsibility of all the team members and specially who is in shift to prepare analysis report ,if client asks.|
+|`12`|It is responsibility of all the team members to change NRPE thresholds, to provide server logs and other detail when required.|
+|`13`|It is responsibility of all the team members to take care of all three nagios servers and other applications.|
+|`14`|It is responsibility of all the team members to take care of belonging of keenable like broadband device.|
+|`15`|To ensure that inform and pass all necessary information to all the team member|
+|`16`|It is responsibility of all the team member to maintain office etiquette and discipline.|
+</details>
 
 
 
