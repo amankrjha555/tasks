@@ -75,21 +75,31 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 </details>
 
 <details>
- <summary><h2 align="center">🅰🅿🅿🅻🅸🅲🅰🆃🅸🅾🅽 🆂🅴🆁🆅🅸🅲🅴🆂</h2></summary>
+ <summary><h2 align="center">🆂🅴🆁🆅🅴🆁🆂</h2></summary>
  
- <h3> 𝕾𝖙𝖚𝖉𝖎𝖊𝖉 𝖆𝖇𝖔𝖚𝖙 𝖆𝖕𝖕𝖑𝖎𝖈𝖆𝖙𝖎𝖔𝖓𝖘 𝖗𝖚𝖓𝖓𝖎𝖓𝖌 𝖔𝖓 𝖉𝖎𝖋𝖋𝖊𝖗𝖊𝖓𝖙 𝖘𝖊𝖗𝖛𝖊𝖗𝖘 : </h3>
+ <h2> 𝕾𝖙𝖚𝖉𝖎𝖊𝖉 𝖆𝖇𝖔𝖚𝖙 𝖆𝖕𝖕𝖑𝖎𝖈𝖆𝖙𝖎𝖔𝖓𝖘 𝖗𝖚𝖓𝖓𝖎𝖓𝖌 𝖔𝖓 𝖉𝖎𝖋𝖋𝖊𝖗𝖊𝖓𝖙 𝖘𝖊𝖗𝖛𝖊𝖗𝖘 : </h2>
 
-<h2>𝐄𝐜𝐡𝐚𝐥𝐥𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 </h2>
+<h2>𝐄𝐜𝐡𝐚𝐥𝐥𝐚𝐧 𝐒𝐄𝐑𝐕𝐄𝐑 </h2>
 
+- EChallan is process of generating Challan cum receipt for the violation against MV Act and printing the same using electronic device.
 - Application services running are: 10.246.40.134, 10.246.40.149
 - On Echallan application servers we use apache and docker instance to deliever web services on apache 1 to 5 instance (port 83,84,85,87,88) 
 - On these servers we are also working on Cronjobs trigerring via monitoring tools to verify all cronjobs are working fine or not.
 
-<h2>𝐕𝐚𝐡𝐚𝐧 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬</h2>
+<h2>𝐕𝐚𝐡𝐚𝐧 𝐒𝐄𝐑𝐕𝐄𝐑 </h2>
 
 - Application services running are: 10.246.40.176 , 10.246.40.142,  10.246.40.158,  10.246.40.139,  10.246.40.152 
 - On vahan servers, Multiple Tomcat instances are running to deliever web servives through these port no :- 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94,     95.
 - On these servers we are monitoring Tomcat,hang,war and AV status services via monitoring tools to check services are working properly or not.
+
+<h2>𝐒𝐚𝐫𝐭𝐡𝐢 𝐒𝐄𝐑𝐕𝐄𝐑</h2>
+
+<h2>𝐏𝐚𝐫𝐢𝐯𝐡𝐚𝐧 𝐒𝐄𝐑𝐕𝐄𝐑</h2>
+<h2>𝐃𝐓𝐏(𝐃𝐞𝐥𝐡𝐢 𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐏𝐨𝐥𝐥𝐢𝐜𝐞) 𝐒𝐄𝐑𝐕𝐄𝐑</h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+
 </details>
 
 <details>
