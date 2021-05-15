@@ -87,13 +87,19 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 |On these servers we are also working on Cronjobs trigerring via monitoring tools to verify all cronjobs are working fine or not.|On these servers we are monitoring Tomcat,hang,war and AV status services via monitoring tools to check services are working properly or not.|
 </details>
 
-details>
+<details>
  <summary><h2 align="center"> 🅰🅿🅰🅲🅷🅴 🆃🅾🅼🅲🅰🆃 🅰🅽🅳 🅰🅿🅰🅲🅷🅴 🆆🅴🅱 🆂🅴🆁🆅🅴🆁</h2></summary>
  
  <h3> 
 𝓑𝓪𝓼𝓲𝓬 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓪𝓫𝓸𝓾𝓽 𝓐𝓹𝓪𝓬𝓱𝓮 𝓣𝓸𝓶𝓬𝓪𝓽 𝓢𝓮𝓻𝓿𝓮𝓻 𝓐𝓝𝓓 𝓐𝓹𝓪𝓬𝓱𝓮 𝓦𝓮𝓫 𝓢𝓮𝓻𝓿𝓮𝓻:
 </h3>
 
+|𝐀𝐩𝐚𝐜𝐡𝐞 𝐓𝐨𝐦𝐜𝐚𝐭 𝐒𝐞𝐫𝐯𝐞𝐫|𝐀𝐩𝐚𝐜𝐡𝐞 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐞𝐫|
+| :------------: | :------------: | 
+|This server is a JSP/Servlet container.| This server is a HTTP server. It serves the file through the HTTP protocol.|
+|It can handle both static pages and dynamic pages. The dynamic pages are generated using servlet and JSP.|It can handle static pages which are generated using HTML.It can handle dynamic content which are coded in PHP , Ruby or other languages only through add-on modules offered by Apache or any other client.|
+|It can be used only for hosting JAVA based code. | It can be used to host applications written in any programming language. |
+</details>
 
 
 
