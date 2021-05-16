@@ -138,7 +138,9 @@ SLA stands for the “service-level agreement.” It is an agreement between a p
 |`14`|It is responsibility of all the team member to maintain office etiquette and discipline.|
 </details>
 
-
+Feel Free to Drop any Suggestions/Upgradations regarding this markdown on below mail-
+<p align="center">
+  <a href="mailto:vatsadditi1799@gmail.com"><img src="https://github.com/additivats01/tasks/blob/master/Images/gmail.png" alt="email"/></a>
 
 
 
