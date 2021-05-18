@@ -1,6 +1,6 @@
 P=$(/usr/bin/pwd)
 # " source " is used to implement configuration sheet in script and $pwd will redirect the exact path
-source $P/variables2.config
+source $P/variables.config
 
 ## log file has been created to store the logs of the file
 
