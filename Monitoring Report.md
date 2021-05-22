@@ -16,11 +16,35 @@ Weekly Status Report Etransport [17/05/2021-21/05/2021]
 </details>
 
 <details>
-<summary><h2 align="center">�🅼🅰🅹🅾🆁 🅸🆂🆂🆄🅴🆂</h2></summary>
+<summary><h2 align="center">🅼🅰🅹🅾🆁 🅸🆂🆂🆄🅴🆂</h2></summary>
 <h3>  Major issues reported this week are: :</h3>
   
 - U01 partition on Vahan server 10.246.40.132
 - High memory utilization on vahan staging server 10.248.93.47
 - ITMS server 10.246.115.132 down on Thursday 
 - Tomcat port 81 critical 
+</details>
+
+<details>
+<summary><h2 align="center"🆁🅴🅿🅴🅰🆃🅴🅳 🅸🆂🆂🆄🅴🆂</h2></summary>
+<h3>  Repeated issues reported this week are: :</h3>
+
+```
+  Memory & CPU utilization issues on Datalake Servers.
+```
+- 10.246.40.239
+- 10.246.40.228
+- 10.246.40.229
+- 10.246.40.159
+
+```
+  Memory Utilization on ITMS Servers:
+```
   
+- 10.249.115.133
+- 10.249.115.132
+  
+ </details>
+
+
+
