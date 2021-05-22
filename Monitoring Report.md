@@ -46,5 +46,12 @@ Weekly Status Report Etransport [17/05/2021-21/05/2021]
 </details>
 
 
+<details>
+<summary><h2 align="center">🅰🅲🆃🅸🅾🅽🆂</h2></summary>
+<h3> FOR THE ISSUES THE PROPSODE SOLUTION ARE MENTIONED BELOW :</h3>
+ 
+ | SNO | ISSUE DESCRIPTION| PROPOSED SOLUTION |
+ | :------------: | :------------: | :------------: | 
+ |`1`| /var/log partition warning | clear the space in var/log partition|
 
 
