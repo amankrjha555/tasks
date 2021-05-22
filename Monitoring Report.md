@@ -16,7 +16,7 @@ Weekly Status Report Etransport [17/05/2021-21/05/2021]
 </details>
 
 <details>
-<summary><h2 align="center">🅼🅰🅹🅾🆁 🅸🆂🆂🆄🅴🆂</h2></summary>
+<summary><h2 align="center"> 🅸🆂🆂🆄🅴🆂</h2></summary>
 <h3>  Major issues reported this week are: :</h3>
   
 - U01 partition on Vahan server 10.246.40.132
