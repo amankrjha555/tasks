@@ -53,5 +53,8 @@ Weekly Status Report Etransport [17/05/2021-21/05/2021]
  | SNO | ISSUE DESCRIPTION| PROPOSED SOLUTION |
  | :------------: | :------------: | :------------: | 
  |`1`| /var/log partition warning | clear the space in var/log partition|
-
-
+ |`2`|CPU utilization warning| check which process is consuming more CPU|
+ |`3`|Memory utilization warning| clear the memory space|
+ |`4`|U01 partition warning| clear the U01 partition space|
+ |`5`| current load warning|current load is associated with the cpu utilization so here we also check the processes which are consuming more CPU|
+ |`6`|Tomcat port 81 down|Restart the port again|
