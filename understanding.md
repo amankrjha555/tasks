@@ -16,7 +16,7 @@ objective of testing script :
 </details>
 
 <details>
- <summary><h1 align="center">TEST CASES</h1></summary>
+ <summary><h1 align="center">UNDERSTANDING</h1></summary>
 <p align=center> We have to create a new script which is  used to test the script.sh  according to different test cases with status. So that we can know how much reliable is our script and working as per requirement.</p>
  
  
