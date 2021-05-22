@@ -14,3 +14,13 @@ Weekly Status Report Etransport [17/05/2021-21/05/2021]
 - On Friday[21/05/2021] 37 issues reported.
 ```
 </details>
+
+<details>
+<summary><h2 align="center">�🅼🅰🅹🅾🆁 🅸🆂🆂🆄🅴🆂</h2></summary>
+<h3>  Major issues reported this week are: :</h3>
+  
+- U01 partition on Vahan server 10.246.40.132
+- High memory utilization on vahan staging server 10.248.93.47
+- ITMS server 10.246.115.132 down on Thursday 
+- Tomcat port 81 critical 
+  
