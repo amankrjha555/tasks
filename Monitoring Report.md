@@ -25,6 +25,7 @@ Weekly Status Report Etransport [17/05/2021-21/05/2021]
 - Tomcat port 81 critical 
 </details>
 
+
 <details>
 <summary><h2 align="center"🆁🅴🅿🅴🅰🆃🅴🅳 🅸🆂🆂🆄🅴🆂</h2></summary>
 <h3>  Repeated issues reported this week are: :</h3>
@@ -40,11 +41,10 @@ Weekly Status Report Etransport [17/05/2021-21/05/2021]
 ```
   Memory Utilization on ITMS Servers:
 ```
-  
 - 10.249.115.133
 - 10.249.115.132
-  
-<details>
+</details>
+
 
 
 
